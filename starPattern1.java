@@ -1,7 +1,7 @@
 package ifelsedemo;
 public class starPattern1 {
 	public static void main(String[] args) {
-		/* apna school
+		 /*
 		 *   * * * * *
 		 *   * * * * *
 		 *   * * * * *
